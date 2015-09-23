@@ -1,4 +1,4 @@
-# Nordic Baristacup
+# Nordic Barista Cup
 Front-end website development test from Shape A/S.
 
 ##Installation
