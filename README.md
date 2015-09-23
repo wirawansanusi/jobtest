@@ -1,5 +1,5 @@
 # Nordic Barista Cup
-Front-end website development test from Shape A/S.
+Front-end website development test from HTML 24.
 
 ##Installation
 Since this is a front-end website test. 
